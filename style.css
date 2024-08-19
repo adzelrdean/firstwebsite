@@ -1,0 +1,46 @@
+body {
+    background-color: white;
+}
+header {
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-size: x-large;
+}
+#intro {
+    text-align: center;
+    font-size:large;
+    margin-top: -20px;
+}
+#tag{
+    font-size: large;
+    font-style: oblique;
+    font-weight: bold;
+    margin-top: -20;
+    
+    
+}
+
+#CEO {
+    width: 150px;
+    height: auto;
+    margin-top: -20px;
+
+
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color:black; /* Blue background */
+    text-align: center;
+    text-decoration: none; /* Removes underline */
+    border-radius: 10px; /* Rounded corners */
+    border: 1px solid white; /* Border color */
+    transition: background-color 0.3s, border-color 0.3s; /* Smooth transition */
+    margin-top: -20;
+}
+#selfsum {
+    margin-top: 10px;
+}
